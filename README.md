@@ -1,4 +1,4 @@
-# Python_final
+# Final course project using Python
 
 Purpose Statement
 
